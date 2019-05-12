@@ -1,6 +1,6 @@
 {
-  "name": "test-app",
-  "version": "0.0.0",
+  "name": "angular-todo-app",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -44,5 +44,21 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.2.2"
-  }
+  },
+  "description": "A simple Todo app built with angular",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lasithds/angular-todo-app.git"
+  },
+  "keywords": [
+    "angular",
+    "todo-app"
+  ],
+  "author": "Lasith De Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lasithds/angular-todo-app/issues"
+  },
+  "homepage": "https://github.com/lasithds/angular-todo-app#readme"
 }
