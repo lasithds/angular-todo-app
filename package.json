@@ -45,7 +45,7 @@
     "tslint": "~5.11.0",
     "typescript": "~3.2.2"
   },
-  "description": "A simple Todo app built with angular",
+  "description": "Demo application for the **Angular Todo App**  app to github pages [https://lasithds.github.io/angular-todo-app/](https://lasithds.github.io/angular-todo-app/)",
   "main": "index.js",
   "repository": {
     "type": "git",
